@@ -1,0 +1,67 @@
+name,age,disease,d_year,d_type
+"A
+",35,Tumor,2015,Deadly
+"b
+",37,Depression,2004,Not deadly
+"C
+",56,Stroke,2012,Deadly
+"D
+",49,Asthma,2006,Not deadly
+"E
+",60,Diabetes,1999,Deadly
+"F
+",30,Depression,2013,Not deadly
+"G
+",66,Diabetes,2017,Deadly
+"H
+",45,Cancer,2012,Deadly
+"V
+",55,Cancer,2009,Deadly
+"Z
+",45,Cancer,2008,Deadly
+"N
+",55,Cancer,2005,Deadly
+"O
+",55,Cancer,2009,Deadly
+"J
+",5,Heart Disease,55,Deadly
+"K
+",25,Heart Disease,2009,Deadly
+"Y
+",53,Tumor,2015,Deadly
+"P
+",56,Asthma,2003,Not deadly
+"Q
+",69,Diabetes,2001,Deadly
+"R
+",14,Asthma,2018,Not deadly
+"W
+",54,Diarrhea,2015,Not deadly
+"U
+",43,Stroke,2017,Deadly
+"I
+",49,Flu,2018,Not deadly
+"L
+",44,Depression,2015,Not deadly
+"GH
+",25,Tumor,2005,Deadly
+"BG
+",25,Tumor,2005,Deadly
+"Ajay
+",19,Diarrhea,2000,Not deadly
+"sdvsv
+",55,Heart Disease,2009,Deadly
+"hsrys
+",55,Tumor,2009,Deadly
+"wrgw
+",45,Diabetes,2008,Deadly
+"GH	
+",68,Malaria,2015,Not deadly
+"HHG
+",25,Flu,2016,Not deadly
+"sdfsd
+",45,Heart Disease,2000,Deadly
+"Ramu
+",45,Diabetes,2006,Deadly
+"hiiithfbd
+",67,Asthma,2004,Not deadly
